@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo. I'm a Data Science leader based in Switzerland with lots of experience in Data Science
-- 👀 I’m interested in Python, Data Science, Machine Learning, and Deep Learning
-- 💞️ I’m looking to forward to collaborating on Data Science projects
+- 👀 I work in Python, Data Science, Machine Learning, and Deep Learning
+- 💞️ I have been working in the latest ML developments: LLMs, causal inference, explainable ML
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/paulocriosjr/)
 
 <!---
